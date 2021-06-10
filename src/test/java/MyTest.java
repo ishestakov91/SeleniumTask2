@@ -9,8 +9,6 @@ public class MyTest extends BaseTest {
     @Test
     public void testInsurance() throws Exception {
 
-        /* + MAVEN */
-
         driver.get(baseUrl + "/");
 
         PersonPage personPage = new PersonPage(driver);
