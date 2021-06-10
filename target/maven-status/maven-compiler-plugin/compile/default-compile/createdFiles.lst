@@ -1,0 +1,6 @@
+pages\PersonPage.class
+pages\BasePage.class
+pages\StorePageSecondTab.class
+pages\StorePageFirstTab.class
+pages\ProgramPage.class
+TestProperties.class
